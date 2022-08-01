@@ -107,13 +107,19 @@ About
 You have unread notifications
 
 
-# Music-Bot-Public-Not Free
-https://discord.com/api/oauth2/authorize?client_id=964805157374283806&permissions=534760652096&scope=bot
-# Music-Bot-Paris-Not Free
-https://discord.com/api/oauth2/authorize?client_id=964805225888231475&permissions=534760652096&scope=bot
-# Music-Bot-New York-Not Free
-https://discord.com/api/oauth2/authorize?client_id=964805280581943336&permissions=534760652096&scope=bot
-# Music-Bot-Madrid-Not Free
-https://discord.com/api/oauth2/authorize?client_id=964805350966566942&permissions=534760652096&scope=bot
-# Music-Bot-Tokyo-Not Free
-https://discord.com/api/oauth2/authorize?client_id=964805399310139443&permissions=534760652096&scope=bot
+# 𝖯𝖴𝖡𝖫𝖨𝖢
+https://discord.com/api/oauth2/authorize?client_id=964805157374283806&permissions=1644959366641&scope=bot
+# 𝖯𝖠𝖱𝖨𝖲
+https://discord.com/api/oauth2/authorize?client_id=964805225888231475&permissions=1644959366641&scope=bot
+# 𝖭𝖤𝖶 𝖸𝖮𝖱𝖪
+https://discord.com/api/oauth2/authorize?client_id=964805280581943336&permissions=1644959366641&scope=bot
+# 𝖬𝖠𝖣𝖱𝖨𝖣
+https://discord.com/api/oauth2/authorize?client_id=964805350966566942&permissions=1644959366641&scope=bot
+# 𝖱𝖮𝖬𝖠
+https://discord.com/api/oauth2/authorize?client_id=1003465608744149003&permissions=1644959366641&scope=bot
+# 𝖳𝖮𝖪𝖸𝖮
+https://discord.com/api/oauth2/authorize?client_id=964805399310139443&permissions=1644959366641&scope=bot
+# 𝖶𝖨𝖲𝖧
+https://discord.com/api/oauth2/authorize?client_id=1003465425910235186&permissions=1644959366641&scope=bot
+# 𝖧𝖮𝖯𝖤
+https://discord.com/api/oauth2/authorize?client_id=1003465365415804960&permissions=1644959366641&scope=bot
